@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.a1efdb35.css","mappings":"AAAA,UAGE,QAAS,CADT,SAIF,CAEA,gBAJE,WAAY,CACZ,UAMF","sources":["styles.css"],"sourcesContent":["html,\nbody {\n  padding: 0;\n  margin: 0;\n  height: 100%;\n  width: 100%;\n}\n\n#root {\n  height: 100%;\n  width: 100%;\n}\n"],"names":[],"sourceRoot":""}
